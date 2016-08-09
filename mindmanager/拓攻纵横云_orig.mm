@@ -1,0 +1,207 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+    <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="拓攻纵横云" >
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="黑匣子" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="源" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="飞控ID" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="16字节id，其中4字节为通讯序号" POSITION="right">
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="无法获取ID，匿名飞控" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="" POSITION="right">
+    </node>
+
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="数据" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="飞控类型" POSITION="right">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="遥测数据按时间分布" POSITION="right">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="模块在线状态" POSITION="right">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="用户操作？" POSITION="right">
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="上报" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="上报方式" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="飞控通过4G模块实时上报" POSITION="right">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="调参软件\地面站通过读取4G模块保存的数据到本地" POSITION="right">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="地面站在连接飞控并作业的情况下保存数据到本地" POSITION="right">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="地面站\调参软件在有网络接入的情况下把数据上报至后台" POSITION="right">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="后台记录上报类型" POSITION="right">
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="上报时间" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="数据上报到后台的时间" POSITION="right">
+    </node>
+
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="管理数据" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="按规则筛选数据" POSITION="right">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="导出选中数据" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="导出数据格式？" POSITION="right">
+    </node>
+
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="使用数据" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="数据绘图" POSITION="right">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="轨迹图" POSITION="right">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="数据曲线图" POSITION="right">
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="数据分析入口" POSITION="right">
+    </node>
+
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="禁飞区" POSITION="left">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="数据" POSITION="left">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="搜集" POSITION="left">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="通过FFA、noflyzone.org等获取机场信息" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="商业、民宅、政治敏感区信息待补充" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="临时禁飞区--限定生效时间" POSITION="left">
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="处理" POSITION="left">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="将区域处理为圆形：坐标+半径" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="半径根据区域类型（民航机场大中小规模\直升机机场\港口机场）来确定" POSITION="left">
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="维护" POSITION="left">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="批量导入数据" POSITION="left">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT=".xls/.csv" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="导入文件格式，数据库数据格式？" POSITION="left">
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="查找禁飞区" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="修改禁飞区属性" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="删除禁飞区" POSITION="left">
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="禁飞区类型" POSITION="left">
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="永久" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426016" ID="ID_1b5d2bf6179dca8411835f8459c723e5" MODIFIED="1470362426016" TEXT="临时" POSITION="left">
+    </node>
+
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="获取" POSITION="left">
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="生成禁飞区嵌入式数据库，写到飞控固件，或飞管系统里" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="飞控通过4G上报gps坐标（遥测数据），后台把周边禁飞区信息返回给飞控" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="地面站在启动后第一次连网时获取全部禁飞区数据，在本地建立禁飞区数据库，并按策略更新该信息" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="地面站在得到所有禁飞区数据后，使用时如果有网络就从后台获取当前设备（if any）或飞机周围禁飞区信息，如果没有就从数据库获取" POSITION="left">
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="使用" POSITION="left">
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="飞控在飞行中，判断到周围禁飞区圆心的距离，小于半径则认为进入禁飞区" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="地面站在地图上标示出当前地图上的禁飞区范围" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="航路无法飞入或穿过禁飞区" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="禁飞区外2km开始报警" POSITION="left">
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="报警区的业务情况" POSITION="left">
+    </node>
+
+    </node>
+
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="第三方接入" POSITION="right">
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="差分服务" POSITION="left">
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="基站" POSITION="left">
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="基站注册" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="获取基站上传的数据" POSITION="left">
+    </node>
+
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="机载端" POSITION="left">
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="接收机载端数据" POSITION="left">
+    </node>
+
+            <node CREATED="1470362426017" ID="ID_c50390a0f8bcefc73580325745e99688" MODIFIED="1470362426017" TEXT="下发查分信息" POSITION="left">
+    </node>
+
+    </node>
+
+    </node>
+
+    </node>
+
+</map>
